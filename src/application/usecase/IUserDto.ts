@@ -1,7 +1,7 @@
 export default interface IUserDto {
-    id:String,
-    email:String,
-    name:String,
-    password:String,
-    type:String
+    id:string,
+    email:string,
+    name:string,
+    password:string,
+    type:string
 }
